@@ -31,7 +31,7 @@ The following **additional** user stories are implemented:
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. I want to know how exactly you can use the GET method instead of hardcoding the baseURL and the size of the image string. 
-2.
+2. I would also want to learn how to POST and DELETE (like adding a rating or deleting a rating). 
 
 ## Video Walkthrough
 
