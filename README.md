@@ -89,14 +89,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2.
+1. I was wondering if there was a way to make sure the Overview text fits relative to the amount? So if there isn't much text it's bigger and if there is a lot then it is resized smaller to fit.
+2. Also wondering if someone filtered the movies to only show superhero movies. I looked into the movie genres and didn't see a superhero category. Not sure if it's just outdated or not. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![flix_app_assignment2](https://user-images.githubusercontent.com/8825679/45653264-04534d00-ba9d-11e8-91b0-ee06403e8eaf.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
