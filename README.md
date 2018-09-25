@@ -136,7 +136,7 @@ The following **required** user stories are complete:
 
 The following **stretch** user stories are implemented:
 
-- [ ] Dynamic Height Cells (+1)
+- [x] Dynamic Height Cells (+1)
 - [ ] Collection View AutoLayout (+2)
 
 The following **additional** user stories are implemented:
@@ -145,20 +145,20 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. I want to talk about the conflicting constraints. 
+2. I would like to know how to fix the height of the image and make the overview dynamic. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![flix_application_lab_3](https://user-images.githubusercontent.com/8825679/45988718-f3c34980-c03d-11e8-8099-e1dc8eed39da.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I particularly had trouble with one of the height constraints we set for the posterImage. I think the height constraint should not be fixed because if it is, fixed then we will have conflicting constraints with the 8 spacing from the top and bottom constraints. Overall, I really liked this lab because I learned a lot about Autolayouts which I think is very useful to me in my future applications. 
 
 ## License
 
