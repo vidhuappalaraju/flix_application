@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/vidhuappalaraju/Desktop/iOS projects/flix_application/flix_application/Views/Movie.swift">
+   </FileRef>
+   <FileRef
       location = "group:/Users/vidhuappalaraju/Desktop/iOS projects/flix_application/flix_application/ViewControllers/DetailViewController.swift">
    </FileRef>
    <FileRef
