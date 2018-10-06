@@ -175,3 +175,56 @@ I particularly had trouble with one of the height constraints we set for the pos
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+# Lab 5 - *Flix_application*
+
+**Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+Time spent: **5** hours spent in total
+
+## User Stories
+
+The following **required** user stories are complete:
+
+- [x] Create a movie model (+2pt)
+- [x] Implement the movie model (+2pt)
+- [x] Implement property observers (+2pt)
+- [x] Create a basic API Client (+2pt)
+
+The following **additional** user stories are implemented:
+
+- [x] Detailed view for popular movies
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1. I want to see the way the other property observer is used. 
+2. I want to get better at debugging. 
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![flix_lab_5](https://user-images.githubusercontent.com/8825679/46567022-0f590a80-c8f0-11e8-8737-c789d63a105d.gif)
+
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+I was stuck for a while because I forgot to set my TableViewCell as a MovieCell. I thought this lab was cool in the sense we could make the code look a lot cleaner and reusable. 
+
+## License
+
+    Copyright [2018] [Vidhu Appalaraju]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
