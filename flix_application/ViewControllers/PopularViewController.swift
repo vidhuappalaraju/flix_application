@@ -20,16 +20,16 @@ class PopularViewController: UIViewController, UITableViewDataSource, UITableVie
         tableView.rowHeight = UITableViewAutomaticDimension
         tableView.estimatedRowHeight = 175
         // Do any additional setup after loading the view.
+        fetchMovies()
     }
     @IBOutlet weak var tableView: UITableView!
     var movies: [Movie] = []
     var refreshControl: UIRefreshControl!
     
     func fetchMovies(){
-        MovieApiManager().nowPlayingMovies { (movies: [Movie]?, error: Error?) in
+        MovieApiManager().popularMovies { (movies: [Movie]?, error: Error?) in
             if let movies = movies {
                 self.movies = movies
-                //self.activityIndicator.stopAnimating()
                 self.tableView.reloadData()
                 self.refreshControl.endRefreshing()
             }
